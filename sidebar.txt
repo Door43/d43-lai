@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lai:home|Door43 (lai)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lai|d43-lai repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lai/archive/master.zip|d43-lai.zip]]
+
+**Recent Changes**
+{{changes>ns = lai}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lai|Ethnologue data]]
+
